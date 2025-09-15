@@ -1,1 +1,20 @@
-# api-usuarios-3b606e96-ebe1-4111-8539-31d4d75f5481-hml
+# api-usuarios
+
+## Descrição
+# Documentação da API
+
+## Instalação
+1. Clone o repositório
+ 2. Instale as dependências:
+    ```bash
+   pip install -r requirements.txt
+    ```
+
+## Uso
+Execute o servidor:
+```bash
+uvicorn src.main:app --reload
+```
+
+## Documentação
+Consulte a pasta `docs` para a documentação completa do projeto.
